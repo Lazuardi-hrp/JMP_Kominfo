@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="200dp"
             android:fontFamily="sans-serif"
-            android:text="MyRotie"
+            android:text="MyRoties"
             android:textColor="#000000"
             android:textSize="38sp"
             app:layout_constraintBottom_toTopOf="@+id/welcomeTextView"
